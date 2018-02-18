@@ -2,4 +2,10 @@
 
 # A Led System to enhance electronic concerts
 
+## Equipment : 
+* Ableton Live
+* Max For Live
+* Arduino Uno
+* Led Strips
+
 
